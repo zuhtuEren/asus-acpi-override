@@ -42,8 +42,8 @@ sudo apt update && sudo apt install cpio
 ### 1. Project Setup
 Clone the repository and enter the project root directory:
 ```bash
-git clone https://github.com/zuhtuEren/Asus-Linux-ACPI-Fix.git
-cd Asus-Linux-ACPI-Fix
+git clone https://github.com/zuhtuEren/asus-acpi-override.git
+cd asus-acpi-override
 ```
 
 ### 2. Automated Installation
