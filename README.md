@@ -1,4 +1,4 @@
-# 🛡️ Asus Linux ACPI Fixes
+# 🛡️ Asus ACPI Table Overrides for Linux
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)](https://www.linux.org/)
