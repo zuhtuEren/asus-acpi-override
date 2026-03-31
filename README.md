@@ -1,4 +1,4 @@
-# 🛡️ Asus ACPI Table Overrides for Linux
+# 🛡️ Asus ACPI Master: Low-Level Hardware & Thermal Overrides
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)](https://www.linux.org/)
